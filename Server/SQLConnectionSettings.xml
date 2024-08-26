@@ -1,0 +1,7 @@
+﻿<root>
+  <NetworkIP>127.0.0.1</NetworkIP>
+  <NetworkPort>3306</NetworkPort>
+  <WindowsServiceName>serverdatabase</WindowsServiceName>
+  <Username>dbusername</Username>
+  <Password>dbpassword</Password>
+</root>
